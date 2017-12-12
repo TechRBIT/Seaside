@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(80,80,80,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,0.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG2A.jpg"
+	thumbURL="thumbs/PG2A.jpg"
+	linkURL="images/PG2A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2B.jpg"
+	thumbURL="thumbs/PG2B.jpg"
+	linkURL="images/PG2B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2C.jpg"
+	thumbURL="thumbs/PG2C.jpg"
+	linkURL="images/PG2C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2D.jpg"
+	thumbURL="thumbs/PG2D.jpg"
+	linkURL="images/PG2D.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2E.jpg"
+	thumbURL="thumbs/PG2E.jpg"
+	linkURL="images/PG2E.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2E.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2F.jpg"
+	thumbURL="thumbs/PG2F.jpg"
+	linkURL="images/PG2F.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2F.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2G.jpg"
+	thumbURL="thumbs/PG2G.jpg"
+	linkURL="images/PG2G.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2G.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2H.jpg"
+	thumbURL="thumbs/PG2H.jpg"
+	linkURL="images/PG2H.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG2H.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

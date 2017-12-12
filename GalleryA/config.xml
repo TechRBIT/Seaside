@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(44,29,111,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,.9)"
+	useFullscreenExpand="true"
+	galleryTitle="Sandy Lakes Build"
+	cropToFit="true"
+
+>
+  <image imageURL="images/PG1A.jpg"
+	thumbURL="thumbs/PG1A.jpg"
+	linkURL="images/PG1A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1B.jpg"
+	thumbURL="thumbs/PG1B.jpg"
+	linkURL="images/PG1B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1C.jpg"
+	thumbURL="thumbs/PG1C.jpg"
+	linkURL="images/PG1C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1D.jpg"
+	thumbURL="thumbs/PG1D.jpg"
+	linkURL="images/PG1D.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1E.jpg"
+	thumbURL="thumbs/PG1E.jpg"
+	linkURL="images/PG1E.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1E.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1F.jpg"
+	thumbURL="thumbs/PG1F.jpg"
+	linkURL="images/PG1F.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1F.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1G.jpg"
+	thumbURL="thumbs/PG1G.jpg"
+	linkURL="images/PG1G.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1G.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1H.jpg"
+	thumbURL="thumbs/PG1H.jpg"
+	linkURL="images/PG1H.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1H.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1I.jpg"
+	thumbURL="thumbs/PG1I.jpg"
+	linkURL="images/PG1I.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1I.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1J.jpg"
+	thumbURL="thumbs/PG1J.jpg"
+	linkURL="images/PG1J.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1J.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1K.jpg"
+	thumbURL="thumbs/PG1K.jpg"
+	linkURL="images/PG1K.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1K.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1L.jpg"
+	thumbURL="thumbs/PG1L.jpg"
+	linkURL="images/PG1L.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1L.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1M.jpg"
+	thumbURL="thumbs/PG1M.jpg"
+	linkURL="images/PG1M.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG1M.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

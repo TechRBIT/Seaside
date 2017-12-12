@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(80,80,80,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG9A.jpg"
+	thumbURL="thumbs/PG9A.jpg"
+	linkURL="images/PG9A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9B.jpg"
+	thumbURL="thumbs/PG9B.jpg"
+	linkURL="images/PG9B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9C.jpg"
+	thumbURL="thumbs/PG9C.jpg"
+	linkURL="images/PG9C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9D.jpg"
+	thumbURL="thumbs/PG9D.jpg"
+	linkURL="images/PG9D.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9E.jpg"
+	thumbURL="thumbs/PG9E.jpg"
+	linkURL="images/PG9E.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9E.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9F.jpg"
+	thumbURL="thumbs/PG9F.jpg"
+	linkURL="images/PG9F.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9F.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9G.jpg"
+	thumbURL="thumbs/PG9G.jpg"
+	linkURL="images/PG9G.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9G.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9H.jpg"
+	thumbURL="thumbs/PG9H.jpg"
+	linkURL="images/PG9H.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9H.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9I.jpg"
+	thumbURL="thumbs/PG9I.jpg"
+	linkURL="images/PG9I.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9I.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9J.jpg"
+	thumbURL="thumbs/PG9J.jpg"
+	linkURL="images/PG9J.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9J.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9K.jpg"
+	thumbURL="thumbs/PG9K.jpg"
+	linkURL="images/PG9K.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9K.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9L.jpg"
+	thumbURL="thumbs/PG9L.jpg"
+	linkURL="images/PG9L.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9L.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG9M.jpg"
+	thumbURL="thumbs/PG9M.jpg"
+	linkURL="images/PG9M.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG9M.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

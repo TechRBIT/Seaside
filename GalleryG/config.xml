@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(80,80,80,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG7A.jpg"
+	thumbURL="thumbs/PG7A.jpg"
+	linkURL="images/PG7A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG7A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG7B.jpg"
+	thumbURL="thumbs/PG7B.jpg"
+	linkURL="images/PG7B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG7B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG7C.jpg"
+	thumbURL="thumbs/PG7C.jpg"
+	linkURL="images/PG7C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG7C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

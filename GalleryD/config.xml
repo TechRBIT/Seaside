@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(80,80,80,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG4A.jpg"
+	thumbURL="thumbs/PG4A.jpg"
+	linkURL="images/PG4A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG4A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG4B.jpg"
+	thumbURL="thumbs/PG4B.jpg"
+	linkURL="images/PG4B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG4B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG4C.jpg"
+	thumbURL="thumbs/PG4C.jpg"
+	linkURL="images/PG4C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG4C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

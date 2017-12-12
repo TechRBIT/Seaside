@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(80,80,80,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,0.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG3A.jpg"
+	thumbURL="thumbs/PG3A.jpg"
+	linkURL="images/PG3A.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG3A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG3B.jpg"
+	thumbURL="thumbs/PG3B.jpg"
+	linkURL="images/PG3B.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG3B.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG3C.jpg"
+	thumbURL="thumbs/PG3C.jpg"
+	linkURL="images/PG3C.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG3C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG3D.jpg"
+	thumbURL="thumbs/PG3D.jpg"
+	linkURL="images/PG3D.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\galleryimages\PG3D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

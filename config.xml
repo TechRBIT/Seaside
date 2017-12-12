@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(22,33,95,1)"
+	textColor="rgba(159,212,213,1)"
+	thumbFrameColor="rgba(159,212,213,0.9)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PG1IResize.jpg"
+	thumbURL="thumbs/PG1IResize.jpg"
+	linkURL="images/PG1IResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG1IResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG1CResize.jpg"
+	thumbURL="thumbs/PG1CResize.jpg"
+	linkURL="images/PG1CResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG1CResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG2HResize.jpg"
+	thumbURL="thumbs/PG2HResize.jpg"
+	linkURL="images/PG2HResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG2HResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG3AResize.jpg"
+	thumbURL="thumbs/PG3AResize.jpg"
+	linkURL="images/PG3AResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG3AResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG3CResize.jpg"
+	thumbURL="thumbs/PG3CResize.jpg"
+	linkURL="images/PG3CResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG3CResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG5AResize.jpg"
+	thumbURL="thumbs/PG5AResize.jpg"
+	linkURL="images/PG5AResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG5AResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG6AResize.jpg"
+	thumbURL="thumbs/PG6AResize.jpg"
+	linkURL="images/PG6AResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG6AResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PG6CResize.jpg"
+	thumbURL="thumbs/PG6CResize.jpg"
+	linkURL="images/PG6CResize.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Final\images\PG6CResize.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
